@@ -1,5 +1,5 @@
 # CMC
- Fetch cryptocurrencies from CMC Api
+Fetch cryptocurrencies from CMC Api
 
 1. Install python requirements
 
